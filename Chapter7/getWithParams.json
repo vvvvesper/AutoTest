@@ -1,0 +1,22 @@
+[
+  {
+    "description":"getWithParams",
+    "request":{
+      "uri":"/getWithParams",
+      "method":"get",
+      "queries":{
+        "username":"huhansan",
+        "password":"123456"
+      }
+    },
+    "response":{
+      "json":{
+        "mobile":"13600000000",
+        "address":"北京市朝阳区"
+      },
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+]

@@ -1,0 +1,21 @@
+[
+  {
+    "description":"postWithParams",
+    "request":{
+      "uri":"/postWithParams",
+      "method":"post",
+      "forms":{
+        "username":"huhansan",
+        "password":"123456"
+      }
+    },
+    "response":{
+      "json":{
+        "tel":"123456789"
+      },
+      "headers":{
+        "Content-Type":"text/html;charset=gbk"
+      }
+    }
+  }
+]
